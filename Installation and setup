@@ -1,0 +1,14 @@
+## Installation & Setup
+
+### Prerequisites:
+- Node.js (v14 or above)
+- npm (v6 or above)
+
+### Steps to Run the Application Locally:
+
+1. Clone this repository:
+   ```bash
+  git clone https://github.com/your-username/template.git
+  cd template
+  npm install
+  npm start
